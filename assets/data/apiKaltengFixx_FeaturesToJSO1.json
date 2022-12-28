@@ -1,0 +1,2435 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:3857"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12783707.683717949,
+                    -191541.72291044082
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "FID_1": 176,
+                "Lat": -1.7203900000000001,
+                "Long": 114.83799999999999,
+                "Tgl_ddmmyy": 1546819200000,
+                "Time_UTC": "05:40:06",
+                "TK__": 51,
+                "Satelit": "snpp",
+                "Kecamatan": "Dusun Selatan",
+                "Kabupaten": " Kab. Barito Selatan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12726155.506977828,
+                    -195220.29588354382
+                ]
+            },
+            "properties": {
+                "FID": 1,
+                "FID_1": 177,
+                "Lat": -1.75342,
+                "Long": 114.321,
+                "Tgl_ddmmyy": 1546819200000,
+                "Time_UTC": "05:40:06",
+                "TK__": 78,
+                "Satelit": "snpp",
+                "Kecamatan": "Mantangai",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12425709.477870645,
+                    -298322.31137630332
+                ]
+            },
+            "properties": {
+                "FID": 2,
+                "FID_1": 194,
+                "Lat": -2.678898335,
+                "Long": 111.6220474,
+                "Tgl_ddmmyy": 1546905600000,
+                "Time_UTC": "02:59:00",
+                "TK__": 51,
+                "Satelit": "terra",
+                "Kecamatan": "Arut Selatan",
+                "Kabupaten": " Kab. Kotawaringin Barat",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12426706.555417731,
+                    -298470.01216091815
+                ]
+            },
+            "properties": {
+                "FID": 3,
+                "FID_1": 195,
+                "Lat": -2.6802237029999998,
+                "Long": 111.6310043,
+                "Tgl_ddmmyy": 1546905600000,
+                "Time_UTC": "02:59:00",
+                "TK__": 72,
+                "Satelit": "terra",
+                "Kecamatan": "Arut Selatan",
+                "Kabupaten": " Kab. Kotawaringin Barat",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12797162.859438183,
+                    -82508.018068816746
+                ]
+            },
+            "properties": {
+                "FID": 4,
+                "FID_1": 204,
+                "Lat": -0.74116146599999999,
+                "Long": 114.9588699,
+                "Tgl_ddmmyy": 1546905600000,
+                "Time_UTC": "05:53:00",
+                "TK__": 44,
+                "Satelit": "aqua",
+                "Kecamatan": "Lahei Barat",
+                "Kabupaten": " Kab. Barito Utara",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12815083.104461933,
+                    -67537.636303396241
+                ]
+            },
+            "properties": {
+                "FID": 5,
+                "FID_1": 205,
+                "Lat": -0.60668957199999995,
+                "Long": 115.1198502,
+                "Tgl_ddmmyy": 1546905600000,
+                "Time_UTC": "05:53:00",
+                "TK__": 86,
+                "Satelit": "aqua",
+                "Kecamatan": "Lahei",
+                "Kabupaten": " Kab. Barito Utara",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12828748.328929346,
+                    -154949.37267806818
+                ]
+            },
+            "properties": {
+                "FID": 6,
+                "FID_1": 510,
+                "Lat": -1.391797,
+                "Long": 115.24260700000001,
+                "Tgl_ddmmyy": 1548633600000,
+                "Time_UTC": "05:29:00",
+                "TK__": 67,
+                "Satelit": "aqua",
+                "Kecamatan": "Gn. Bintang Awai",
+                "Kabupaten": " Kab. Barito Selatan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12825741.812122,
+                    -150547.76248269618
+                ]
+            },
+            "properties": {
+                "FID": 7,
+                "FID_1": 511,
+                "Lat": -1.352268,
+                "Long": 115.215599,
+                "Tgl_ddmmyy": 1548633600000,
+                "Time_UTC": "05:29:00",
+                "TK__": 71,
+                "Satelit": "aqua",
+                "Kecamatan": "Gn. Bintang Awai",
+                "Kabupaten": " Kab. Barito Selatan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12617952.961926766,
+                    -96158.85833853003
+                ]
+            },
+            "properties": {
+                "FID": 8,
+                "FID_1": 520,
+                "Lat": -0.86377700000000002,
+                "Long": 113.349,
+                "Tgl_ddmmyy": 1548633600000,
+                "Time_UTC": "05:46:42",
+                "TK__": 70,
+                "Satelit": "snpp",
+                "Kecamatan": "Damang Batu",
+                "Kabupaten": " Kab. Gunung Mas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12522997.436280103,
+                    -377830.97102119855
+                ]
+            },
+            "properties": {
+                "FID": 9,
+                "FID_1": 711,
+                "Lat": -3.3921299999999999,
+                "Long": 112.496,
+                "Tgl_ddmmyy": 1549411200000,
+                "Time_UTC": "06:16:59",
+                "TK__": 64,
+                "Satelit": "snpp",
+                "Kecamatan": "Seruyan Hilir",
+                "Kabupaten": " Kab. Seruyan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12531243.538880106,
+                    -361440.82319367258
+                ]
+            },
+            "properties": {
+                "FID": 10,
+                "FID_1": 727,
+                "Lat": -3.2451417450000002,
+                "Long": 112.570076,
+                "Tgl_ddmmyy": 1549497600000,
+                "Time_UTC": "06:05:00",
+                "TK__": 61,
+                "Satelit": "aqua",
+                "Kecamatan": "Seruyan Hilir Timur",
+                "Kabupaten": " Kab. Seruyan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12742630.791615231,
+                    -176186.60989777779
+                ]
+            },
+            "properties": {
+                "FID": 11,
+                "FID_1": 1011,
+                "Lat": -1.5825100000000001,
+                "Long": 114.46899999999999,
+                "Tgl_ddmmyy": 1550102400000,
+                "Time_UTC": "05:26:36",
+                "TK__": 61,
+                "Satelit": "snpp",
+                "Kecamatan": "Timpah",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12743896.449697755,
+                    -217505.33105641801
+                ]
+            },
+            "properties": {
+                "FID": 12,
+                "FID_1": 1428,
+                "Lat": -1.9535050389999999,
+                "Long": 114.4803696,
+                "Tgl_ddmmyy": 1550620800000,
+                "Time_UTC": "05:35:00",
+                "TK__": 70,
+                "Satelit": "aqua",
+                "Kecamatan": "Mantangai",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12718744.411878265,
+                    -198118.66257473026
+                ]
+            },
+            "properties": {
+                "FID": 13,
+                "FID_1": 1429,
+                "Lat": -1.7794440979999999,
+                "Long": 114.254425,
+                "Tgl_ddmmyy": 1550620800000,
+                "Time_UTC": "05:35:00",
+                "TK__": 64,
+                "Satelit": "aqua",
+                "Kecamatan": "Mantangai",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12717130.746803626,
+                    -198348.01809746883
+                ]
+            },
+            "properties": {
+                "FID": 14,
+                "FID_1": 1430,
+                "Lat": -1.781503439,
+                "Long": 114.23992920000001,
+                "Tgl_ddmmyy": 1550620800000,
+                "Time_UTC": "05:35:00",
+                "TK__": 63,
+                "Satelit": "aqua",
+                "Kecamatan": "Mantangai",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12789646.556287874,
+                    -107421.51644386927
+                ]
+            },
+            "properties": {
+                "FID": 15,
+                "FID_1": 1434,
+                "Lat": -0.96493828299999995,
+                "Long": 114.8913498,
+                "Tgl_ddmmyy": 1550620800000,
+                "Time_UTC": "05:35:00",
+                "TK__": 41,
+                "Satelit": "aqua",
+                "Kecamatan": "Teweh Tengah",
+                "Kabupaten": " Kab. Barito Utara",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12744411.903467925,
+                    -216363.0849631353
+                ]
+            },
+            "properties": {
+                "FID": 16,
+                "FID_1": 1457,
+                "Lat": -1.9432499999999999,
+                "Long": 114.485,
+                "Tgl_ddmmyy": 1550620800000,
+                "Time_UTC": "05:14:04",
+                "TK__": 95,
+                "Satelit": "snpp",
+                "Kecamatan": "Timpah",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12623536.157591654,
+                    -212998.67405658064
+                ]
+            },
+            "properties": {
+                "FID": 17,
+                "FID_1": 1919,
+                "Lat": -1.9130440950000001,
+                "Long": 113.3991547,
+                "Tgl_ddmmyy": 1551052800000,
+                "Time_UTC": "02:59:00",
+                "TK__": 54,
+                "Satelit": "terra",
+                "Kecamatan": "Katingan Hilir",
+                "Kabupaten": " Kab. Katingan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12636810.717438078,
+                    -251098.7419769844
+                ]
+            },
+            "properties": {
+                "FID": 18,
+                "FID_1": 1920,
+                "Lat": -2.255075932,
+                "Long": 113.5184021,
+                "Tgl_ddmmyy": 1551052800000,
+                "Time_UTC": "02:59:00",
+                "TK__": 38,
+                "Satelit": "terra",
+                "Kecamatan": "Kampiang",
+                "Kabupaten": " Kab. Katingan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12637796.752091676,
+                    -252331.61148052785
+                ]
+            },
+            "properties": {
+                "FID": 19,
+                "FID_1": 1921,
+                "Lat": -2.2661423680000001,
+                "Long": 113.5272598,
+                "Tgl_ddmmyy": 1551052800000,
+                "Time_UTC": "02:59:00",
+                "TK__": 49,
+                "Satelit": "terra",
+                "Kecamatan": "Kampiang",
+                "Kabupaten": " Kab. Katingan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12688035.416397868,
+                    -260844.10568571533
+                ]
+            },
+            "properties": {
+                "FID": 20,
+                "FID_1": 1922,
+                "Lat": -2.3425495619999999,
+                "Long": 113.9785614,
+                "Tgl_ddmmyy": 1551052800000,
+                "Time_UTC": "02:59:00",
+                "TK__": 29,
+                "Satelit": "terra",
+                "Kecamatan": "Sabangau",
+                "Kabupaten": " Kota Palangkaraya",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12697257.12301518,
+                    -282708.08697821846
+                ]
+            },
+            "properties": {
+                "FID": 21,
+                "FID_1": 1923,
+                "Lat": -2.5387787820000001,
+                "Long": 114.06140139999999,
+                "Tgl_ddmmyy": 1551052800000,
+                "Time_UTC": "02:59:00",
+                "TK__": 36,
+                "Satelit": "terra",
+                "Kecamatan": "Kahayan Kuala",
+                "Kabupaten": " Kab. Pulangpisau",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12646894.459928196,
+                    -281138.45453132072
+                ]
+            },
+            "properties": {
+                "FID": 22,
+                "FID_1": 1924,
+                "Lat": -2.5246922970000001,
+                "Long": 113.60898589999999,
+                "Tgl_ddmmyy": 1551052800000,
+                "Time_UTC": "02:59:00",
+                "TK__": 41,
+                "Satelit": "terra",
+                "Kecamatan": "Mendawai",
+                "Kabupaten": " Kab. Katingan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12637370.409573888,
+                    -281936.40573518275
+                ]
+            },
+            "properties": {
+                "FID": 23,
+                "FID_1": 1925,
+                "Lat": -2.5318534370000001,
+                "Long": 113.5234299,
+                "Tgl_ddmmyy": 1551052800000,
+                "Time_UTC": "02:59:00",
+                "TK__": 49,
+                "Satelit": "terra",
+                "Kecamatan": "Mendawai",
+                "Kabupaten": " Kab. Katingan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12712260.86417184,
+                    -319078.93136947224
+                ]
+            },
+            "properties": {
+                "FID": 24,
+                "FID_1": 1926,
+                "Lat": -2.8651399610000001,
+                "Long": 114.1961823,
+                "Tgl_ddmmyy": 1551052800000,
+                "Time_UTC": "02:59:00",
+                "TK__": 59,
+                "Satelit": "terra",
+                "Kecamatan": "Kahayan Hilir",
+                "Kabupaten": " Kab. Pulangpisau",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12437321.959795879,
+                    -305143.20993422286
+                ]
+            },
+            "properties": {
+                "FID": 25,
+                "FID_1": 1944,
+                "Lat": -2.740103006,
+                "Long": 111.7263641,
+                "Tgl_ddmmyy": 1551052800000,
+                "Time_UTC": "05:53:00",
+                "TK__": 20,
+                "Satelit": "aqua",
+                "Kecamatan": "Kumai",
+                "Kabupaten": " Kab. Kotawaringin Barat",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12734118.4461891,
+                    -335886.37239730108
+                ]
+            },
+            "properties": {
+                "FID": 26,
+                "FID_1": 2141,
+                "Lat": -3.0159249309999998,
+                "Long": 114.3925323,
+                "Tgl_ddmmyy": 1551225600000,
+                "Time_UTC": "02:48:00",
+                "TK__": 23,
+                "Satelit": "terra",
+                "Kecamatan": "Selat",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12785687.12237544,
+                    -148360.13189082651
+                ]
+            },
+            "properties": {
+                "FID": 27,
+                "FID_1": 2149,
+                "Lat": -1.332621574,
+                "Long": 114.8557816,
+                "Tgl_ddmmyy": 1551225600000,
+                "Time_UTC": "05:41:00",
+                "TK__": 53,
+                "Satelit": "aqua",
+                "Kecamatan": "Montallat",
+                "Kabupaten": " Kab. Barito Utara",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12806105.143001661,
+                    -121682.50975721344
+                ]
+            },
+            "properties": {
+                "FID": 28,
+                "FID_1": 2151,
+                "Lat": -1.0930262799999999,
+                "Long": 115.03919980000001,
+                "Tgl_ddmmyy": 1551225600000,
+                "Time_UTC": "05:41:00",
+                "TK__": 73,
+                "Satelit": "aqua",
+                "Kecamatan": "Teweh Selatan",
+                "Kabupaten": " Kab. Barito Utara",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12729150.045807963,
+                    -109967.34529118804
+                ]
+            },
+            "properties": {
+                "FID": 29,
+                "FID_1": 2152,
+                "Lat": -0.98780453199999996,
+                "Long": 114.3479004,
+                "Tgl_ddmmyy": 1551225600000,
+                "Time_UTC": "05:41:00",
+                "TK__": 40,
+                "Satelit": "aqua",
+                "Kecamatan": "Kapuas Tengah",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12773638.947095189,
+                    -69244.967459228763
+                ]
+            },
+            "properties": {
+                "FID": 30,
+                "FID_1": 2154,
+                "Lat": -0.62202590700000004,
+                "Long": 114.747551,
+                "Tgl_ddmmyy": 1551225600000,
+                "Time_UTC": "05:41:00",
+                "TK__": 57,
+                "Satelit": "aqua",
+                "Kecamatan": "Laung Tuhup",
+                "Kabupaten": " Kab. Murung Raya",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12729940.369664799,
+                    -174030.65227417642
+                ]
+            },
+            "properties": {
+                "FID": 31,
+                "FID_1": 2186,
+                "Lat": -1.56315,
+                "Long": 114.355,
+                "Tgl_ddmmyy": 1551225600000,
+                "Time_UTC": "06:23:36",
+                "TK__": 95,
+                "Satelit": "snpp",
+                "Kecamatan": "Mantangai",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12742185.51365206,
+                    -124112.36617456215
+                ]
+            },
+            "properties": {
+                "FID": 32,
+                "FID_1": 2246,
+                "Lat": -1.1148499999999999,
+                "Long": 114.465,
+                "Tgl_ddmmyy": 1551312000000,
+                "Time_UTC": "06:04:41",
+                "TK__": 69,
+                "Satelit": "snpp",
+                "Kecamatan": "Kapuas Tengah",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12729978.118104126,
+                    -110390.25379874642
+                ]
+            },
+            "properties": {
+                "FID": 33,
+                "FID_1": 2326,
+                "Lat": -0.99160301699999998,
+                "Long": 114.35533909999999,
+                "Tgl_ddmmyy": 1551398400000,
+                "Time_UTC": "05:29:00",
+                "TK__": 62,
+                "Satelit": "aqua",
+                "Kecamatan": "Kapuas Tengah",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12786713.309969369,
+                    -45515.252543681119
+                ]
+            },
+            "properties": {
+                "FID": 34,
+                "FID_1": 2360,
+                "Lat": -0.40886699999999998,
+                "Long": 114.86499999999999,
+                "Tgl_ddmmyy": 1551398400000,
+                "Time_UTC": "05:45:45",
+                "TK__": 34,
+                "Satelit": "snpp",
+                "Kecamatan": "Barito Tuhup Raya",
+                "Kabupaten": " Kab. Murung Raya",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12826849.307472002,
+                    -144530.39721655252
+                ]
+            },
+            "properties": {
+                "FID": 35,
+                "FID_1": 2774,
+                "Lat": -1.2982275489999999,
+                "Long": 115.2255478,
+                "Tgl_ddmmyy": 1552003200000,
+                "Time_UTC": "05:35:00",
+                "TK__": 72,
+                "Satelit": "aqua",
+                "Kecamatan": "Gunung Timang",
+                "Kabupaten": " Kab. Barito Utara",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12377467.529006919,
+                    -277625.35331211518
+                ]
+            },
+            "properties": {
+                "FID": 36,
+                "FID_1": 2918,
+                "Lat": -2.4931638239999998,
+                "Long": 111.18868260000001,
+                "Tgl_ddmmyy": 1552262400000,
+                "Time_UTC": "06:05:00",
+                "TK__": 47,
+                "Satelit": "aqua",
+                "Kecamatan": "Sukamara",
+                "Kabupaten": " Kab. Sukamara",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12389884.294253133,
+                    -207164.33393018754
+                ]
+            },
+            "properties": {
+                "FID": 37,
+                "FID_1": 2919,
+                "Lat": -1.860661745,
+                "Long": 111.3002243,
+                "Tgl_ddmmyy": 1552262400000,
+                "Time_UTC": "06:05:00",
+                "TK__": 40,
+                "Satelit": "aqua",
+                "Kecamatan": "Lamadau",
+                "Kabupaten": " Kab. Lamandau",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12694918.144666327,
+                    -273600.40020899405
+                ]
+            },
+            "properties": {
+                "FID": 38,
+                "FID_1": 2937,
+                "Lat": -2.4570407869999999,
+                "Long": 114.04039,
+                "Tgl_ddmmyy": 1552435200000,
+                "Time_UTC": "03:00:00",
+                "TK__": 20,
+                "Satelit": "terra",
+                "Kecamatan": "Kahayan Kuala",
+                "Kabupaten": " Kab. Pulangpisau",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12622421.871752715,
+                    -293957.35578835802
+                ]
+            },
+            "properties": {
+                "FID": 39,
+                "FID_1": 2938,
+                "Lat": -2.6397295000000001,
+                "Long": 113.38914490000001,
+                "Tgl_ddmmyy": 1552435200000,
+                "Time_UTC": "03:00:00",
+                "TK__": 26,
+                "Satelit": "terra",
+                "Kecamatan": "Mendawai",
+                "Kabupaten": " Kab. Katingan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12480255.794588421,
+                    -212952.02946553365
+                ]
+            },
+            "properties": {
+                "FID": 40,
+                "FID_1": 3973,
+                "Lat": -1.9126253129999999,
+                "Long": 112.11204530000001,
+                "Tgl_ddmmyy": 1553040000000,
+                "Time_UTC": "03:05:00",
+                "TK__": 34,
+                "Satelit": "terra",
+                "Kecamatan": "Seruyan Tengah",
+                "Kabupaten": " Kab. Seruyan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12479665.534120437,
+                    -347161.00189068186
+                ]
+            },
+            "properties": {
+                "FID": 41,
+                "FID_1": 4007,
+                "Lat": -3.1170616149999999,
+                "Long": 112.1067429,
+                "Tgl_ddmmyy": 1553040000000,
+                "Time_UTC": "05:59:00",
+                "TK__": 47,
+                "Satelit": "aqua",
+                "Kecamatan": "Kumai",
+                "Kabupaten": " Kab. Kotawaringin Barat",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12790090.743320037,
+                    -107077.56095015067
+                ]
+            },
+            "properties": {
+                "FID": 42,
+                "FID_1": 4009,
+                "Lat": -0.96184891500000003,
+                "Long": 114.89534,
+                "Tgl_ddmmyy": 1553040000000,
+                "Time_UTC": "05:59:00",
+                "TK__": 52,
+                "Satelit": "aqua",
+                "Kecamatan": "Teweh Tengah",
+                "Kabupaten": " Kab. Barito Utara",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12785960.589836523,
+                    -154255.94826059436
+                ]
+            },
+            "properties": {
+                "FID": 43,
+                "FID_1": 4319,
+                "Lat": -1.385569692,
+                "Long": 114.8582382,
+                "Tgl_ddmmyy": 1553212800000,
+                "Time_UTC": "02:53:00",
+                "TK__": 59,
+                "Satelit": "terra",
+                "Kecamatan": "Dusun Utara",
+                "Kabupaten": " Kab. Barito Selatan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12789866.523601681,
+                    -231463.0951406169
+                ]
+            },
+            "properties": {
+                "FID": 44,
+                "FID_1": 4320,
+                "Lat": -2.078812122,
+                "Long": 114.8933258,
+                "Tgl_ddmmyy": 1553212800000,
+                "Time_UTC": "02:53:00",
+                "TK__": 43,
+                "Satelit": "terra",
+                "Kecamatan": "Karau Kuala",
+                "Kabupaten": " Kab. Barito Selatan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12610483.257115301,
+                    -287378.88316984137
+                ]
+            },
+            "properties": {
+                "FID": 45,
+                "FID_1": 4322,
+                "Lat": -2.5806953909999999,
+                "Long": 113.2818985,
+                "Tgl_ddmmyy": 1553212800000,
+                "Time_UTC": "02:53:00",
+                "TK__": 46,
+                "Satelit": "terra",
+                "Kecamatan": "Kampiang",
+                "Kabupaten": " Kab. Katingan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12733162.14497149,
+                    -148653.9235337069
+                ]
+            },
+            "properties": {
+                "FID": 46,
+                "FID_1": 4342,
+                "Lat": -1.335260034,
+                "Long": 114.38394169999999,
+                "Tgl_ddmmyy": 1553212800000,
+                "Time_UTC": "05:47:00",
+                "TK__": 41,
+                "Satelit": "aqua",
+                "Kecamatan": "Kapuas Tengah",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12653891.001244046,
+                    -126167.54260343878
+                ]
+            },
+            "properties": {
+                "FID": 47,
+                "FID_1": 4343,
+                "Lat": -1.133308411,
+                "Long": 113.6718369,
+                "Tgl_ddmmyy": 1553212800000,
+                "Time_UTC": "05:47:00",
+                "TK__": 60,
+                "Satelit": "aqua",
+                "Kecamatan": "Tewah",
+                "Kabupaten": " Kab. Gunung Mas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12652790.307514928,
+                    -126324.62758324358
+                ]
+            },
+            "properties": {
+                "FID": 48,
+                "FID_1": 4344,
+                "Lat": -1.1347192530000001,
+                "Long": 113.6619492,
+                "Tgl_ddmmyy": 1553212800000,
+                "Time_UTC": "05:47:00",
+                "TK__": 60,
+                "Satelit": "aqua",
+                "Kecamatan": "Rungan Hulu",
+                "Kabupaten": " Kab. Gunung Mas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12733743.065734196,
+                    -336064.54770849674
+                ]
+            },
+            "properties": {
+                "FID": 49,
+                "FID_1": 4466,
+                "Lat": -3.0175232890000001,
+                "Long": 114.38916020000001,
+                "Tgl_ddmmyy": 1553385600000,
+                "Time_UTC": "02:42:00",
+                "TK__": 24,
+                "Satelit": "terra",
+                "Kecamatan": "Selat",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12453201.328935172,
+                    -224011.04479292582
+                ]
+            },
+            "properties": {
+                "FID": 50,
+                "FID_1": 4562,
+                "Lat": -2.011911869,
+                "Long": 111.86901090000001,
+                "Tgl_ddmmyy": 1553472000000,
+                "Time_UTC": "03:25:00",
+                "TK__": 42,
+                "Satelit": "terra",
+                "Kecamatan": "Arut Utara",
+                "Kabupaten": " Kab. Kotawaringin Barat",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12418394.451491637,
+                    -323706.00184825563
+                ]
+            },
+            "properties": {
+                "FID": 51,
+                "FID_1": 4575,
+                "Lat": -2.9066529270000001,
+                "Long": 111.55633539999999,
+                "Tgl_ddmmyy": 1553472000000,
+                "Time_UTC": "06:18:00",
+                "TK__": 73,
+                "Satelit": "aqua",
+                "Kecamatan": "Kumai",
+                "Kabupaten": " Kab. Kotawaringin Barat",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12426518.013596175,
+                    -298469.77311911678
+                ]
+            },
+            "properties": {
+                "FID": 52,
+                "FID_1": 4757,
+                "Lat": -2.6802215579999999,
+                "Long": 111.6293106,
+                "Tgl_ddmmyy": 1553644800000,
+                "Time_UTC": "06:05:00",
+                "TK__": 30,
+                "Satelit": "aqua",
+                "Kecamatan": "Arut Selatan",
+                "Kabupaten": " Kab. Kotawaringin Barat",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12541365.152260993,
+                    -305464.9568903324
+                ]
+            },
+            "properties": {
+                "FID": 53,
+                "FID_1": 4809,
+                "Lat": -2.7429899999999998,
+                "Long": 112.661,
+                "Tgl_ddmmyy": 1553644800000,
+                "Time_UTC": "05:57:20",
+                "TK__": 69,
+                "Satelit": "snpp",
+                "Kecamatan": "Seruyan Hilir",
+                "Kabupaten": " Kab. Seruyan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12734189.790850749,
+                    -336050.67420619883
+                ]
+            },
+            "properties": {
+                "FID": 54,
+                "FID_1": 4868,
+                "Lat": -3.0173988340000002,
+                "Long": 114.39317320000001,
+                "Tgl_ddmmyy": 1553817600000,
+                "Time_UTC": "02:59:00",
+                "TK__": 63,
+                "Satelit": "terra",
+                "Kecamatan": "Selat",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12565740.413805677,
+                    -290745.64667553885
+                ]
+            },
+            "properties": {
+                "FID": 55,
+                "FID_1": 4882,
+                "Lat": -2.6109085080000001,
+                "Long": 112.8799667,
+                "Tgl_ddmmyy": 1553817600000,
+                "Time_UTC": "05:55:00",
+                "TK__": 20,
+                "Satelit": "aqua",
+                "Kecamatan": "Mentawa Baru Ketapang",
+                "Kabupaten": " Kab. Kotawaringin Timur",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12511679.060449544,
+                    -298467.72716648423
+                ]
+            },
+            "properties": {
+                "FID": 56,
+                "FID_1": 4883,
+                "Lat": -2.6802031990000001,
+                "Long": 112.39432530000001,
+                "Tgl_ddmmyy": 1553817600000,
+                "Time_UTC": "05:55:00",
+                "TK__": 38,
+                "Satelit": "aqua",
+                "Kecamatan": "Danau Sembuluh",
+                "Kabupaten": " Kab. Seruyan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12427434.406776335,
+                    -298077.23294510687
+                ]
+            },
+            "properties": {
+                "FID": 57,
+                "FID_1": 4917,
+                "Lat": -2.6766991619999998,
+                "Long": 111.6375427,
+                "Tgl_ddmmyy": 1553990400000,
+                "Time_UTC": "05:40:00",
+                "TK__": 46,
+                "Satelit": "aqua",
+                "Kecamatan": "Arut Selatan",
+                "Kabupaten": " Kab. Kotawaringin Barat",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12597686.001849553,
+                    -225402.82297857432
+                ]
+            },
+            "properties": {
+                "FID": 58,
+                "FID_1": 5049,
+                "Lat": -2.0244066699999999,
+                "Long": 113.1669388,
+                "Tgl_ddmmyy": 1554076800000,
+                "Time_UTC": "05:13:53",
+                "TK__": 53,
+                "Satelit": "noaa20",
+                "Kecamatan": "Cempaga Hulu",
+                "Kabupaten": " Kab. Kotawaringin Timur",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12558161.259670865,
+                    -339213.25036545866
+                ]
+            },
+            "properties": {
+                "FID": 59,
+                "FID_1": 5095,
+                "Lat": -3.0457689800000001,
+                "Long": 112.811882,
+                "Tgl_ddmmyy": 1554336000000,
+                "Time_UTC": "05:58:08",
+                "TK__": 65,
+                "Satelit": "noaa20",
+                "Kecamatan": "Seruyan Hilir Timur",
+                "Kabupaten": " Kab. Seruyan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12427677.305905245,
+                    -297790.65337377443
+                ]
+            },
+            "properties": {
+                "FID": 60,
+                "FID_1": 5129,
+                "Lat": -2.6741275799999999,
+                "Long": 111.6397247,
+                "Tgl_ddmmyy": 1554422400000,
+                "Time_UTC": "05:39:13",
+                "TK__": 60,
+                "Satelit": "noaa20",
+                "Kecamatan": "Arut Selatan",
+                "Kabupaten": " Kab. Kotawaringin Barat",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12389625.253798058,
+                    -207099.28850614734
+                ]
+            },
+            "properties": {
+                "FID": 61,
+                "FID_1": 5131,
+                "Lat": -1.8600777399999999,
+                "Long": 111.2978973,
+                "Tgl_ddmmyy": 1554422400000,
+                "Time_UTC": "05:39:13",
+                "TK__": 65,
+                "Satelit": "noaa20",
+                "Kecamatan": "Lamadau",
+                "Kabupaten": " Kab. Lamandau",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12783979.169692095,
+                    -191928.86881366436
+                ]
+            },
+            "properties": {
+                "FID": 62,
+                "FID_1": 5206,
+                "Lat": -1.7238662199999999,
+                "Long": 114.8404388,
+                "Tgl_ddmmyy": 1554508800000,
+                "Time_UTC": "05:20:16",
+                "TK__": 67,
+                "Satelit": "noaa20",
+                "Kecamatan": "Dusun Selatan",
+                "Kabupaten": " Kab. Barito Selatan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12609974.527042376,
+                    -291065.26272052125
+                ]
+            },
+            "properties": {
+                "FID": 63,
+                "FID_1": 5295,
+                "Lat": -2.6137766839999999,
+                "Long": 113.2773285,
+                "Tgl_ddmmyy": 1554595200000,
+                "Time_UTC": "02:54:00",
+                "TK__": 46,
+                "Satelit": "terra",
+                "Kecamatan": "Kampiang",
+                "Kabupaten": " Kab. Katingan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12574212.183277417,
+                    -282845.72921092174
+                ]
+            },
+            "properties": {
+                "FID": 64,
+                "FID_1": 5307,
+                "Lat": -2.540014029,
+                "Long": 112.9560699,
+                "Tgl_ddmmyy": 1554595200000,
+                "Time_UTC": "05:46:00",
+                "TK__": 15,
+                "Satelit": "aqua",
+                "Kecamatan": "Mentawa Baru Ketapang",
+                "Kabupaten": " Kab. Kotawaringin Timur",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12742192.749418961,
+                    -124724.91277950675
+                ]
+            },
+            "properties": {
+                "FID": 65,
+                "FID_1": 5309,
+                "Lat": -1.1203515529999999,
+                "Long": 114.465065,
+                "Tgl_ddmmyy": 1554595200000,
+                "Time_UTC": "05:46:00",
+                "TK__": 50,
+                "Satelit": "aqua",
+                "Kecamatan": "Kapuas Tengah",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12556615.922499672,
+                    -305822.70282330248
+                ]
+            },
+            "properties": {
+                "FID": 66,
+                "FID_1": 5504,
+                "Lat": -2.7462,
+                "Long": 112.798,
+                "Tgl_ddmmyy": 1554681600000,
+                "Time_UTC": "05:32:15",
+                "TK__": 54,
+                "Satelit": "snpp",
+                "Kecamatan": "Mentaya Hilir Utara",
+                "Kabupaten": " Kab. Kotawaringin Timur",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12575985.5138977,
+                    -272298.91009597492
+                ]
+            },
+            "properties": {
+                "FID": 67,
+                "FID_1": 5505,
+                "Lat": -2.44536,
+                "Long": 112.97199999999999,
+                "Tgl_ddmmyy": 1554681600000,
+                "Time_UTC": "05:32:15",
+                "TK__": 32,
+                "Satelit": "snpp",
+                "Kecamatan": "Baawang",
+                "Kabupaten": " Kab. Kotawaringin Timur",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12431938.092811206,
+                    -236730.70382794618
+                ]
+            },
+            "properties": {
+                "FID": 68,
+                "FID_1": 5506,
+                "Lat": -2.1261000000000001,
+                "Long": 111.678,
+                "Tgl_ddmmyy": 1554681600000,
+                "Time_UTC": "05:32:15",
+                "TK__": 49,
+                "Satelit": "snpp",
+                "Kecamatan": "Menthobi Raya",
+                "Kabupaten": " Kab. Lamandau",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12683408.432894994,
+                    -245946.32188715678
+                ]
+            },
+            "properties": {
+                "FID": 69,
+                "FID_1": 5521,
+                "Lat": -2.2088260700000002,
+                "Long": 113.93699650000001,
+                "Tgl_ddmmyy": 1554681600000,
+                "Time_UTC": "06:23:26",
+                "TK__": 35,
+                "Satelit": "noaa20",
+                "Kecamatan": "Panahdut",
+                "Kabupaten": " Kota Palangkaraya",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12789978.633460857,
+                    -107245.19535943316
+                ]
+            },
+            "properties": {
+                "FID": 70,
+                "FID_1": 5573,
+                "Lat": -0.96335458799999996,
+                "Long": 114.89433289999999,
+                "Tgl_ddmmyy": 1554768000000,
+                "Time_UTC": "02:42:00",
+                "TK__": 24,
+                "Satelit": "terra",
+                "Kecamatan": "Teweh Tengah",
+                "Kabupaten": " Kab. Barito Utara",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12549334.481211036,
+                    -311543.47139305307
+                ]
+            },
+            "properties": {
+                "FID": 71,
+                "FID_1": 5714,
+                "Lat": -2.7975304099999998,
+                "Long": 112.73258970000001,
+                "Tgl_ddmmyy": 1554854400000,
+                "Time_UTC": "05:45:35",
+                "TK__": 49,
+                "Satelit": "noaa20",
+                "Kecamatan": "Seruyan Hilir",
+                "Kabupaten": " Kab. Seruyan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12745512.663988736,
+                    -125412.36786344029
+                ]
+            },
+            "properties": {
+                "FID": 72,
+                "FID_1": 5716,
+                "Lat": -1.12652588,
+                "Long": 114.4948883,
+                "Tgl_ddmmyy": 1554854400000,
+                "Time_UTC": "05:45:35",
+                "TK__": 45,
+                "Satelit": "noaa20",
+                "Kecamatan": "Kapuas Tengah",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12764184.527082372,
+                    -74230.874726267182
+                ]
+            },
+            "properties": {
+                "FID": 73,
+                "FID_1": 5717,
+                "Lat": -0.66681223999999995,
+                "Long": 114.6626205,
+                "Tgl_ddmmyy": 1554854400000,
+                "Time_UTC": "05:45:35",
+                "TK__": 52,
+                "Satelit": "noaa20",
+                "Kecamatan": "Murung",
+                "Kabupaten": " Kab. Murung Raya",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12555017.151972899,
+                    -223518.49271488475
+                ]
+            },
+            "properties": {
+                "FID": 74,
+                "FID_1": 6056,
+                "Lat": -2.0074899199999998,
+                "Long": 112.783638,
+                "Tgl_ddmmyy": 1555286400000,
+                "Time_UTC": "05:51:58",
+                "TK__": 69,
+                "Satelit": "noaa20",
+                "Kecamatan": "Parenggean",
+                "Kabupaten": " Kab. Kotawaringin Timur",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12407946.360308152,
+                    -242542.75132054079
+                ]
+            },
+            "properties": {
+                "FID": 75,
+                "FID_1": 6057,
+                "Lat": -2.1782736800000002,
+                "Long": 111.4624786,
+                "Tgl_ddmmyy": 1555286400000,
+                "Time_UTC": "05:51:58",
+                "TK__": 61,
+                "Satelit": "noaa20",
+                "Kecamatan": "Bulik",
+                "Kabupaten": " Kab. Lamandau",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12614379.851175182,
+                    -127130.41433799185
+                ]
+            },
+            "properties": {
+                "FID": 76,
+                "FID_1": 6258,
+                "Lat": -1.14195633,
+                "Long": 113.3169022,
+                "Tgl_ddmmyy": 1555545600000,
+                "Time_UTC": "06:36:11",
+                "TK__": 50,
+                "Satelit": "noaa20",
+                "Kecamatan": "Mahuning Raya",
+                "Kabupaten": " Kab. Gunung Mas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12733743.065734196,
+                    -335493.82409101061
+                ]
+            },
+            "properties": {
+                "FID": 77,
+                "FID_1": 6319,
+                "Lat": -3.0124034879999999,
+                "Long": 114.38916020000001,
+                "Tgl_ddmmyy": 1555632000000,
+                "Time_UTC": "06:12:00",
+                "TK__": 59,
+                "Satelit": "aqua",
+                "Kecamatan": "Selat",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12610231.018281111,
+                    -287590.99889248272
+                ]
+            },
+            "properties": {
+                "FID": 78,
+                "FID_1": 6321,
+                "Lat": -2.5825989250000001,
+                "Long": 113.2796326,
+                "Tgl_ddmmyy": 1555632000000,
+                "Time_UTC": "06:12:00",
+                "TK__": 30,
+                "Satelit": "aqua",
+                "Kecamatan": "Kampiang",
+                "Kabupaten": " Kab. Katingan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12389507.210610019,
+                    -207358.10316261533
+                ]
+            },
+            "properties": {
+                "FID": 79,
+                "FID_1": 6322,
+                "Lat": -1.8624014849999999,
+                "Long": 111.2968369,
+                "Tgl_ddmmyy": 1555632000000,
+                "Time_UTC": "06:12:00",
+                "TK__": 55,
+                "Satelit": "aqua",
+                "Kecamatan": "Lamadau",
+                "Kabupaten": " Kab. Lamandau",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12427133.755095601,
+                    -298367.34692184272
+                ]
+            },
+            "properties": {
+                "FID": 80,
+                "FID_1": 6484,
+                "Lat": -2.6793024540000001,
+                "Long": 111.6348419,
+                "Tgl_ddmmyy": 1555804800000,
+                "Time_UTC": "05:59:00",
+                "TK__": 55,
+                "Satelit": "aqua",
+                "Kecamatan": "Arut Selatan",
+                "Kabupaten": " Kab. Kotawaringin Barat",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12683742.78098559,
+                    -245454.36242343107
+                ]
+            },
+            "properties": {
+                "FID": 81,
+                "FID_1": 6558,
+                "Lat": -2.2044100000000002,
+                "Long": 113.94,
+                "Tgl_ddmmyy": 1555632000000,
+                "Time_UTC": "05:26:06",
+                "TK__": 8,
+                "Satelit": "snpp",
+                "Kecamatan": "Panahdut",
+                "Kabupaten": " Kota Palangkaraya",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12783373.725245571,
+                    -191678.70767560214
+                ]
+            },
+            "properties": {
+                "FID": 82,
+                "FID_1": 6559,
+                "Lat": -1.7216199999999999,
+                "Long": 114.83499999999999,
+                "Tgl_ddmmyy": 1555632000000,
+                "Time_UTC": "05:26:06",
+                "TK__": 49,
+                "Satelit": "snpp",
+                "Kecamatan": "Dusun Selatan",
+                "Kabupaten": " Kab. Barito Selatan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12790594.374960283,
+                    -106890.42315001867
+                ]
+            },
+            "properties": {
+                "FID": 83,
+                "FID_1": 6689,
+                "Lat": -0.96016806399999999,
+                "Long": 114.8998642,
+                "Tgl_ddmmyy": 1555977600000,
+                "Time_UTC": "02:54:00",
+                "TK__": 39,
+                "Satelit": "terra",
+                "Kecamatan": "Teweh Tengah",
+                "Kabupaten": " Kab. Barito Utara",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12783602.932077114,
+                    -191715.83746710711
+                ]
+            },
+            "properties": {
+                "FID": 84,
+                "FID_1": 6690,
+                "Lat": -1.7219533920000001,
+                "Long": 114.837059,
+                "Tgl_ddmmyy": 1555977600000,
+                "Time_UTC": "02:54:00",
+                "TK__": 54,
+                "Satelit": "terra",
+                "Kecamatan": "Dusun Selatan",
+                "Kabupaten": " Kab. Barito Selatan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12734647.569992738,
+                    -335592.3197984646
+                ]
+            },
+            "properties": {
+                "FID": 85,
+                "FID_1": 6691,
+                "Lat": -3.0132870669999998,
+                "Long": 114.3972855,
+                "Tgl_ddmmyy": 1555977600000,
+                "Time_UTC": "02:54:00",
+                "TK__": 47,
+                "Satelit": "terra",
+                "Kecamatan": "Selat",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12741486.983847331,
+                    -124706.18481619049
+                ]
+            },
+            "properties": {
+                "FID": 86,
+                "FID_1": 6705,
+                "Lat": -1.1201833489999999,
+                "Long": 114.458725,
+                "Tgl_ddmmyy": 1555977600000,
+                "Time_UTC": "05:46:00",
+                "TK__": 50,
+                "Satelit": "aqua",
+                "Kecamatan": "Kapuas Tengah",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12592247.076244732,
+                    -178849.2678612161
+                ]
+            },
+            "properties": {
+                "FID": 87,
+                "FID_1": 6826,
+                "Lat": -1.606419802,
+                "Long": 113.1180801,
+                "Tgl_ddmmyy": 1556236800000,
+                "Time_UTC": "06:17:00",
+                "TK__": 58,
+                "Satelit": "aqua",
+                "Kecamatan": "Pulau Malam",
+                "Kabupaten": " Kab. Katingan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12734232.259236487,
+                    -335859.71520356403
+                ]
+            },
+            "properties": {
+                "FID": 88,
+                "FID_1": 6893,
+                "Lat": -3.0156857970000002,
+                "Long": 114.3935547,
+                "Tgl_ddmmyy": 1556582400000,
+                "Time_UTC": "05:52:00",
+                "TK__": 27,
+                "Satelit": "aqua",
+                "Kecamatan": "Selat",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12733968.120348733,
+                    -335261.99003151135
+                ]
+            },
+            "properties": {
+                "FID": 89,
+                "FID_1": 7092,
+                "Lat": -3.0103237630000002,
+                "Long": 114.39118190000001,
+                "Tgl_ddmmyy": 1556928000000,
+                "Time_UTC": "02:35:00",
+                "TK__": 51,
+                "Satelit": "terra",
+                "Kecamatan": "Selat",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12621737.824613737,
+                    -196285.01147419552
+                ]
+            },
+            "properties": {
+                "FID": 90,
+                "FID_1": 7101,
+                "Lat": -1.76298,
+                "Long": 113.383,
+                "Tgl_ddmmyy": 1556928000000,
+                "Time_UTC": "05:45:16",
+                "TK__": 83,
+                "Satelit": "snpp",
+                "Kecamatan": "Tawangsangalanggaring",
+                "Kabupaten": " Kab. Katingan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12771017.261767518,
+                    -71441.556279523604
+                ]
+            },
+            "properties": {
+                "FID": 91,
+                "FID_1": 7102,
+                "Lat": -0.64175700000000002,
+                "Long": 114.724,
+                "Tgl_ddmmyy": 1556928000000,
+                "Time_UTC": "05:45:16",
+                "TK__": 60,
+                "Satelit": "snpp",
+                "Kecamatan": "Laung Tuhup",
+                "Kabupaten": " Kab. Murung Raya",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12573582.003640035,
+                    -283534.04843117355
+                ]
+            },
+            "properties": {
+                "FID": 92,
+                "FID_1": 7115,
+                "Lat": -2.546191216,
+                "Long": 112.9504089,
+                "Tgl_ddmmyy": 1556928000000,
+                "Time_UTC": "05:29:00",
+                "TK__": 35,
+                "Satelit": "aqua",
+                "Kecamatan": "Mentawa Baru Ketapang",
+                "Kabupaten": " Kab. Kotawaringin Timur",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12742625.047529507,
+                    -124832.87415794987
+                ]
+            },
+            "properties": {
+                "FID": 93,
+                "FID_1": 7116,
+                "Lat": -1.121321201,
+                "Long": 114.4689484,
+                "Tgl_ddmmyy": 1556928000000,
+                "Time_UTC": "05:29:00",
+                "TK__": 62,
+                "Satelit": "aqua",
+                "Kecamatan": "Kapuas Tengah",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12764847.835400211,
+                    -118376.4476186558
+                ]
+            },
+            "properties": {
+                "FID": 94,
+                "FID_1": 7117,
+                "Lat": -1.063332677,
+                "Long": 114.6685791,
+                "Tgl_ddmmyy": 1556928000000,
+                "Time_UTC": "05:29:00",
+                "TK__": 65,
+                "Satelit": "aqua",
+                "Kecamatan": "Teweh Tengah",
+                "Kabupaten": " Kab. Barito Utara",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12706737.825559776,
+                    -172336.41317377222
+                ]
+            },
+            "properties": {
+                "FID": 95,
+                "FID_1": 7148,
+                "Lat": -1.547936,
+                "Long": 114.146568,
+                "Tgl_ddmmyy": 1557014400000,
+                "Time_UTC": "03:17:00",
+                "TK__": 23,
+                "Satelit": "terra",
+                "Kecamatan": "Mantangai",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12734407.175552372,
+                    -335383.96831757831
+                ]
+            },
+            "properties": {
+                "FID": 96,
+                "FID_1": 7151,
+                "Lat": -3.0114179999999999,
+                "Long": 114.395126,
+                "Tgl_ddmmyy": 1557014400000,
+                "Time_UTC": "03:17:00",
+                "TK__": 62,
+                "Satelit": "terra",
+                "Kecamatan": "Selat",
+                "Kabupaten": " Kab. Kapuas",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12531618.128966626,
+                    -343835.28830825194
+                ]
+            },
+            "properties": {
+                "FID": 97,
+                "FID_1": 7152,
+                "Lat": -3.0872299999999999,
+                "Long": 112.573441,
+                "Tgl_ddmmyy": 1557014400000,
+                "Time_UTC": "03:17:00",
+                "TK__": 62,
+                "Satelit": "terra",
+                "Kecamatan": "Seruyan Hilir",
+                "Kabupaten": " Kab. Seruyan",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12695990.808147661,
+                    -333515.87331087614
+                ]
+            },
+            "properties": {
+                "FID": 98,
+                "FID_1": 7171,
+                "Lat": -2.9946596620000001,
+                "Long": 114.05002589999999,
+                "Tgl_ddmmyy": 1557014400000,
+                "Time_UTC": "06:10:00",
+                "TK__": 73,
+                "Satelit": "aqua",
+                "Kecamatan": "Pedih Batu",
+                "Kabupaten": " Kab. Pulangpisau",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12696833.318581784,
+                    -333639.93448216229
+                ]
+            },
+            "properties": {
+                "FID": 99,
+                "FID_1": 7213,
+                "Lat": -2.9957726,
+                "Long": 114.05759430000001,
+                "Tgl_ddmmyy": 1557014400000,
+                "Time_UTC": "06:17:31",
+                "TK__": 69,
+                "Satelit": "noaa20",
+                "Kecamatan": "Pedih Batu",
+                "Kabupaten": " Kab. Pulangpisau",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12695803.969514316,
+                    -333802.08039752307
+                ]
+            },
+            "properties": {
+                "FID": 100,
+                "FID_1": 7214,
+                "Lat": -2.9972271899999998,
+                "Long": 114.04834750000001,
+                "Tgl_ddmmyy": 1557014400000,
+                "Time_UTC": "06:17:31",
+                "TK__": 70,
+                "Satelit": "noaa20",
+                "Kecamatan": "Pedih Batu",
+                "Kabupaten": " Kab. Pulangpisau",
+                "Provinsi": " Kalimantan Tengah"
+            }
+        }
+    ]
+}
