@@ -954,8 +954,9 @@ section {
 /* Team Section
 --------------------------------*/
 #team {
-  background: #fff;
+  background: 	#797979;
   padding: 80px 0 60px 0;
+  
 }
 
 #team .member {
@@ -974,7 +975,7 @@ section {
 }
 
 #team .member h4 {
-  font-weight: 700;
+  font-weight: 800;
   margin-bottom: 2px;
   font-size: 18px;
 }
@@ -1001,6 +1002,8 @@ section {
   font-size: 18px;
   margin: 0 2px;
 }
+
+
 
 /* Contact Section
 --------------------------------*/
